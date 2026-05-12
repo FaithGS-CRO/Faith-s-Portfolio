@@ -41,7 +41,7 @@ The dashboard helps track:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](DASHBOARD.png)
 
 ---
 
