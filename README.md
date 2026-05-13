@@ -71,8 +71,8 @@ The dashboard tracks the following key metrics:
 ## Key Insights
 
 - Sales performance varies significantly across different regions.
-- Apple+ care, Case/cover and screen protector are the highest selling accessori
-- september is the month with the highest number of sales with apple watch s8 GPS highest sales
+- Apple+ care, Case/cover and screen protector are the highest selling accessories
+- september is the month with the highest number of sales
 - Deharadun is the region with the highest sales
 - 1phone 14 (128) is the highest selling product
 - Monthly sales trends show fluctuations, indicating possible seasonal demand.
