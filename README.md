@@ -87,12 +87,12 @@ The dashboard tracks the following key metrics:
   
 - New product releases tend to generate higher revenue compared to older models. For example, the iPhone 14 (128GB) shows stronger performance, indicating that more focus should be placed on stocking and promoting new iPhone releases rather than older versions.
   
-- Region strongly influences overall sales performance, with some regions consistently outperforming others.
+- Region strongly influences overall sales performance, with some regions consistently outperforming others, in case of dehardum been the capital of india people there would likey be able afford buying an Apple product in comparison to smaller cities and towns.
   
 - High-performing products and regions should be prioritized to maximize overall revenue.
   
 - Underperforming segments may require targeted marketing strategies to improve performance and demand.
 
-- Seasonal trends can be used to improve forecasting accuracy and optimize inventory planning.
+- Seasonal and market trends can be used to improve forecasting accuracy and optimize inventory planning.
 
 - Overall, the dashboard provides clear, data-driven insights that support better business decision-making.
